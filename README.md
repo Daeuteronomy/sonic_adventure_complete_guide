@@ -4,12 +4,9 @@
 
 适用于以下游戏：
 
-* Sonic Adventure \(DreamCast\)
-* Sonic Adventure International \(DreamCast\)
-* Sonic Adventure DX - Director's Cut \(Nintendo GameCube\)
-* Sonic Adventure DX - Director's Cut \(PC\) \(2003\)
-* Sonic Adventure DX - Director's Cut \(XBox Live / PlayStation Network\)
-* Sonic Adventure DX - Director's Cut \(PC - Steam\) \(2010\)
+* Sonic Adventure \(DreamCast\) - 包括国际版等特别版本
+* Sonic Adventure DX - Director's Cut \(Nintendo GameCube / PC\)
+* Sonic Adventure DX - Director's Cut \(XBox Live Arcade / PlayStation Network / PC Steam\) \(2010\)
 
 ---
 
