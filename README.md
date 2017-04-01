@@ -9,5 +9,22 @@
 * Sonic Adventure / DX \(DLC\)  \(XBox Live Arcade / PlayStation Network\)
 * Sonic Adventure DX \(PC Steam）
 
+---
+
+## 不同版本特有内容
+
+所有 DreamCast 版 Sonic Adventure 包括了以下特有内容/要素：
+
+* Chao Adventure - Chao大冒险模式
+
+所有 DX 版包括了以下特有内容/要素：
+
+* Mission - 任务模式
+* Metal Sonic - 可操作人物
+
+所有 Director's Cut 版本包括了以下特有内容/要素：
+
+* Mini Games - 世嘉 Game Gear 怀旧游戏模式
+
 
 
