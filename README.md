@@ -20,7 +20,7 @@
 所有 DX 版包括了以下特有内容/要素：
 
 * [Mission - 任务模式](/mission-60ge-ren-wu-gong-lve.md)
-* Metal Sonic - 可操作人物
+* [Metal Sonic - 可操作人物](/trial-tiao-zhan-mo-shi.md#a-metal-sonic "Metal Sonic - 可操作人物")
 
 所有 Director's Cut 版本包括了以下特有内容/要素：
 
