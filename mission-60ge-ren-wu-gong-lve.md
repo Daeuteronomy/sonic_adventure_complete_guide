@@ -1,4 +1,4 @@
-# Mission - 60个任务攻略 {#a-mission-mode}
+# Mission - 60个任务攻略
 
 
 
