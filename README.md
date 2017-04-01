@@ -21,8 +21,6 @@
 
 * [Mission - 任务模式](/mission-60ge-ren-wu-gong-lve.md)
 * [Metal Sonic - 可操作人物](/trial-tiao-zhan-mo-shi.html#a-metal-sonic "Metal Sonic - 可操作人物")
-* 暂停可以观看当前的地图
-* 暂停可以调整自由/自动视角
 
 所有 Director's Cut 版本包括了以下特有内容/要素：
 
