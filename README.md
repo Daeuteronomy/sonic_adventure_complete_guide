@@ -24,7 +24,7 @@
 
 所有 Director's Cut 版本包括了以下特有内容/要素：
 
-* Mini Games - 世嘉 Game Gear 怀旧游戏模式
+* Mini Games - 世嘉 Game Gear 怀旧游戏模式 
 
 
 
