@@ -17,7 +17,7 @@
   * [E-102 γ 篇](adventure-ju-qing-liu-cheng/e-102-pian.md)
   * [Super Sonic 篇](adventure-ju-qing-liu-cheng/super-sonic-pian.md)
 * [Trial - 挑战模式](trial-tiao-zhan-mo-shi.md)
-* [Mission - 60个任务攻略](mission-60ge-ren-wu-gong-lve.md)
+* [Mission - 60个任务](mission-60ge-ren-wu-gong-lve.md)
 * [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
 * [Chao - Chao养成](chao-chaoyang-cheng.md)
   * [Chao Adventure - Chao大冒险](chao-adventure-chaoda-mao-xian.md)
