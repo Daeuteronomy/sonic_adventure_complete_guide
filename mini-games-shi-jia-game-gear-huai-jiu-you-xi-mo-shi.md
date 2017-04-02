@@ -4,7 +4,7 @@
 
 **\*由于该模式中所收录的迷你游戏为世嘉以往在其他平台上发售的其他游戏，这里不详细说明小游戏的攻略方式，仅将其作为收集要素，记录游戏名与收集条件。**
 
-在导演剪辑版中，玩家可以获得收集奖章相关的奖励。
+在导演剪辑版中，玩家可以获得收集奖章，[完成任务](/mission-60ge-ren-wu-gong-lve.md)相关的奖励。
 
 ![](/assets/mini_game_menu.png)
 
@@ -54,7 +54,7 @@
 
 ## Dr. Robotnik's Mean Bean Machine
 
-![](/assets/Dr.Robotnik's_mean_bean_machine.png)
+![](/assets/mini_game_dr_robotniks_mean_bean_machine.png)
 
 ---
 
@@ -72,7 +72,7 @@
 
 ## Tails' Skypatrol
 
-![](/assets/mini_game_tails'_skypatrol.png)
+!\[\]\(/assets/mini\_game\_tails'\_skypatrol.png\)
 
 ---
 
@@ -85,6 +85,4 @@
 ## Tails Adventures
 
 ![](/assets/mini_game_tails_adventures.png)
-
-
 
