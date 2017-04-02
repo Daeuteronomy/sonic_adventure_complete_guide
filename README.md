@@ -7,7 +7,7 @@
 * Sonic Adventure \(DreamCast\)
 * Sonic Adventure DX - Director's Cut \(Nintendo GameCube / PC\)
 * Sonic Adventure / DX \(DLC\)  \(XBox Live Arcade / PlayStation Network\)
-* Sonic Adventure DX \(PC Steam）
+* Sonic Adventure DX \(PC Steam\)
 
 ---
 

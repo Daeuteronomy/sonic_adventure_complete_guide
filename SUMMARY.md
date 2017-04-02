@@ -4,12 +4,18 @@
   * [人物的操作方式](ren-wu-de-cao-zuo-fang-shi-yu-zhuang-bei-de-huo-qu.md)
 * [Adventure - 冒险模式](adventure-ju-qing-liu-cheng.md)
   * [Sonic 篇](adventure-ju-qing-liu-cheng/sonic-pian.md)
-  * Tails 篇
-  * Knuckles 篇
-  * Amy 篇
-  * Big 篇
-  * E-102 γ 篇
-  * Super Sonic 篇
+    * [1 对决 Chaos 0](adventure-ju-qing-liu-cheng/sonic-pian/1-dui-jue-chaos-0.md)
+    * [2 营救 Tails](adventure-ju-qing-liu-cheng/sonic-pian/2-ying-jiu-tails.md)
+    * [3 寻找绿色 Chaos Emerald](adventure-ju-qing-liu-cheng/sonic-pian/3-xun-zhao-lv-sechaos-emerald.md)
+    * [4 寻找白色 Chaos Emerald](adventure-ju-qing-liu-cheng/sonic-pian/4-xun-zhao-bai-se-chaos-emerald.md)
+    * [5 寻找蓝色 Chaos Emerald](adventure-ju-qing-liu-cheng/sonic-pian/5-xun-zhao-lan-se-chaos-emerald.md)
+    * [6 追击蛋头博士](adventure-ju-qing-liu-cheng/sonic-pian/6-zhui-ji-dan-tou-bo-shi.md)
+  * [Tails 篇](adventure-ju-qing-liu-cheng/tails-pian.md)
+  * [Knuckles 篇](adventure-ju-qing-liu-cheng/knuckles-pian.md)
+  * [Amy 篇](adventure-ju-qing-liu-cheng/amy-pian.md)
+  * [Big 篇](adventure-ju-qing-liu-cheng/big-pian.md)
+  * [E-102 γ 篇](adventure-ju-qing-liu-cheng/e-102-pian.md)
+  * [Super Sonic 篇](adventure-ju-qing-liu-cheng/super-sonic-pian.md)
 * [Trial - 挑战模式](trial-tiao-zhan-mo-shi.md)
 * [Mission - 60个任务攻略](mission-60ge-ren-wu-gong-lve.md)
 * [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
