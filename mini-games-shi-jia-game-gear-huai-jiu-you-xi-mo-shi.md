@@ -24,47 +24,67 @@
 
 ## Sonic Drift
 
+![](/assets/mini_game_sonic_drift.png)
+
 ---
 
 ## Sonic Chaos
+
+![](/assets/mini_game_sonic_chaos.png)
 
 ---
 
 ## Sonic Spinball
 
----
+![](/assets/mini_game_sonic_spinball.png)
 
 ---
 
 ## Sonic Labyrinth
 
+![](/assets/mini_game_sonic_labyrinth.png)
+
 ---
 
 ## Sonic the Hedgehog 2
+
+![](/assets/mini_game_sonic_the_hedgehog_2.png)
 
 ---
 
 ## Dr. Robotnik's Mean Bean Machine
 
+![](/assets/Dr.Robotnik's_mean_bean_machine.png)
+
 ---
 
-## Sonic Triple Trouble
+## Sonic Triple Trouble / Sonic The Hedgehog Triple Touble
+
+![](/assets/mini_game_sonic_triple_trouble.png)
 
 ---
 
 ## Sonic Drift 2
 
+![](/assets/mini_game_sonic_drift_2.png)
+
 ---
 
 ## Tails' Skypatrol
+
+![](/assets/mini_game_tails'_skypatrol.png)
 
 ---
 
 ## Sonic Blast
 
+![](/assets/mini_game_sonic_blast.png)
+
 ---
 
 ## Tails Adventures
+
+![](/assets/mini_game_tails_adventures.png)
 
 
 
