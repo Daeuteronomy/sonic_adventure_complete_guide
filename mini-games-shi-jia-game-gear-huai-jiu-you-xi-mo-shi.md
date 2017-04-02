@@ -1,4 +1,4 @@
-# Mini Games - 世嘉 Game Gear 怀旧游戏模式
+# Mini Games - Game Gear 怀旧游戏
 
 **\*请注意：本内容只有 Sonic Adventure DX Director's Cut 拥有，故本篇章仅适用于 Sonic Adventure DX Director's Cut 玩家参考。**
 
