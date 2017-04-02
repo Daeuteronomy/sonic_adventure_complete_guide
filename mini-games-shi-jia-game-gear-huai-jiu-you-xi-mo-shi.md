@@ -92,7 +92,7 @@
 
 收集130枚奖章即可获得，完成40个任务。
 
-!\[\]\(/assets/mini\_game\_tails\_skypatrol.png\)
+![](/assets/mini_game_tails_skypatrol.png)
 
 ---
 
