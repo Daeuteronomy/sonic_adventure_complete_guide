@@ -4,9 +4,31 @@
 
 ---
 
-## 
+## Sonic
 
-## Metal Sonic - 可操控角色 {#a-metal-sonic}
+---
+
+## Tails
+
+---
+
+## Knuckles
+
+---
+
+## Amy
+
+---
+
+## Big
+
+---
+
+## E-102 γ
+
+---
+
+## Metal Sonic {#a-metal-sonic}
 
 **\*请注意：本内容只有 Sonic Adventure DX 拥有，故本篇章仅适用于 Sonic Adventure DX 玩家参考。**
 
