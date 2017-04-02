@@ -18,11 +18,15 @@
 
 ## Sonic the Hedgehog
 
-## ![](/assets/mini_game_sonic_the_hedgehog.png)
+收集20枚奖章即可获得。
+
+![](/assets/mini_game_sonic_the_hedgehog.png)
 
 ---
 
 ## Sonic Drift
+
+收集40枚奖章即可获得。
 
 ![](/assets/mini_game_sonic_drift.png)
 
@@ -30,11 +34,15 @@
 
 ## Sonic Chaos
 
+收集60枚奖章即可获得。
+
 ![](/assets/mini_game_sonic_chaos.png)
 
 ---
 
 ## Sonic Spinball
+
+收集80枚奖章即可获得。
 
 ![](/assets/mini_game_sonic_spinball.png)
 
@@ -42,17 +50,23 @@
 
 ## Sonic Labyrinth
 
+收集100枚奖章即可获得。
+
 ![](/assets/mini_game_sonic_labyrinth.png)
 
 ---
 
 ## Sonic the Hedgehog 2
 
+收集110枚奖章即可获得。
+
 ![](/assets/mini_game_sonic_the_hedgehog_2.png)
 
 ---
 
 ## Dr. Robotnik's Mean Bean Machine
+
+收集120枚奖章即可获得。
 
 ![](/assets/mini_game_dr_robotniks_mean_bean_machine.png)
 
