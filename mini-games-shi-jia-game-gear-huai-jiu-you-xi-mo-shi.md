@@ -6,9 +6,13 @@
 
 在导演剪辑版中，玩家可以获得收集奖章相关的奖励。
 
-不论获取途径，每收集20个徽章，将在Mini Games模式中追加一个世嘉 Game Gear 上的游戏。
+![](/assets/import.png)
 
-具体可以获得的游戏为：
+不论获取途径，每收集20个徽章，将在Mini Games模式中追加一个世嘉 Game Gear 上的经典游戏。
+
+具体可以获得的游戏在下列出。
+
+---
 
 * Sonic the Hedgehog
 * Sonic Drift
