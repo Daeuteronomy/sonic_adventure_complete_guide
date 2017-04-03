@@ -20,6 +20,8 @@
 
 ## Final Boss：Egg Viper
 
+
+
 ---
 
 剧情后回归 Mystic Ruins，Sonic 篇剧情攻略完成。
