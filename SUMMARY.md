@@ -13,6 +13,7 @@
     * [7 遭遇 Amy](adventure-ju-qing-liu-cheng/sonic-pian/7-zao-yu-amy.md)
     * [8 第二次追击蛋头博士](adventure-ju-qing-liu-cheng/sonic-pian/8-di-er-ci-zhui-ji-dan-tou-bo-shi.md)
     * [9 解救 Amy](adventure-ju-qing-liu-cheng/sonic-pian/9-jie-jiu-amy.md)
+    * 10 古代文明的启示
   * [Tails 篇](adventure-ju-qing-liu-cheng/tails-pian.md)
   * [Knuckles 篇](adventure-ju-qing-liu-cheng/knuckles-pian.md)
   * [Amy 篇](adventure-ju-qing-liu-cheng/amy-pian.md)
