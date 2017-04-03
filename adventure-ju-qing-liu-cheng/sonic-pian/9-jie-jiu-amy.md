@@ -36,7 +36,7 @@ HP：3 Hits
 
 ---
 
-剧情过后，[E-102 γ 成为可操控人物](/adventure-ju-qing-liu-cheng/e-102-pian.md)，Sonic 篇人物解锁全部完成。
+剧情过后，[E-102 γ 成为可操控人物](/adventure-ju-qing-liu-cheng/e-102-pian.md)。
 
 朝前方直走进入剧情，剧情后进入面前的门。
 
