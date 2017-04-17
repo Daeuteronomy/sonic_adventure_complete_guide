@@ -35,6 +35,8 @@
     * [2 逃离蛋头战舰](adventure-ju-qing-liu-cheng/amy-pian/2-tao-li-dan-tou-zhan-jian.md)
     * [3 探索蛋头基地](adventure-ju-qing-liu-cheng/amy-pian/3-tan-suo-dan-tou-ji-di.md)
   * [Big 篇](adventure-ju-qing-liu-cheng/big-pian.md)
+    * [1 追寻挚友：Twinkle Park](adventure-ju-qing-liu-cheng/big-pian/1-zhui-xun-zhi-you-ff1a-twinkle-park.md)
+    * [2 追寻挚友：Ice Cap](adventure-ju-qing-liu-cheng/big-pian/2-zhui-xun-zhi-you-ff1a-ice-cap.md)
   * [E-102 γ 篇](adventure-ju-qing-liu-cheng/e-102-pian.md)
   * [Super Sonic 篇](adventure-ju-qing-liu-cheng/super-sonic-pian.md)
 * [Trial - 挑战模式](trial-tiao-zhan-mo-shi.md)
