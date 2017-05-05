@@ -1,8 +1,8 @@
-# Sonic
+# Action Stage
+
+## Sonic
 
 ---
-
-## Action Stage
 
 ### Emerald Coast
 
@@ -63,10 +63,3 @@
 * C级目标：通过关卡；
 * B级目标：在带有至少50枚金环的状态下通过关卡；
 * A级目标：在四分三十秒内通过关卡。
-
----
-
-## Sub Game
-
-
-

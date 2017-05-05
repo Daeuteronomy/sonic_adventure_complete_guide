@@ -1,8 +1,8 @@
-# Tails
+# Action Stage
+
+## Tails
 
 ---
-
-## Action Stage
 
 ### Windy Valley
 
@@ -33,10 +33,3 @@
 * C级目标：比 Eggman 更快通过关卡；
 * B级目标：在带有至少50枚金环的状态下比 Eggman 更快通过关卡；
 * A级目标：比加强的 Eggman 更快通过关卡。
-
----
-
-## Sub Game
-
-
-
