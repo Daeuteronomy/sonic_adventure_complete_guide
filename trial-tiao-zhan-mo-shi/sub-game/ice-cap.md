@@ -1,4 +1,1 @@
-# Ice Cap 篇
-
-
-
+# Ice Cap
