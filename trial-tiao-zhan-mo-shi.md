@@ -1,0 +1,9 @@
+# Trial - 挑战模式
+
+挑战模式中收录了玩家在[冒险模式](/adventure-ju-qing-liu-cheng.md)中完成过的关卡、小游戏，玩家在这个模式下可以更加方便地通过完成目标的不同等级的要求，获得更多的奖章。同时，在这个模式下也能够查看奖章的获得进度。
+
+---
+
+* [Action Stage](/trial-tiao-zhan-mo-shi/action-stage.md)
+* [Sub Game](/trial-tiao-zhan-mo-shi/sub-game.md)
+* [Emblem Results](/trial-tiao-zhan-mo-shi/emblem-results.md)
