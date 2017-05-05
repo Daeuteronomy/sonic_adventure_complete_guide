@@ -40,6 +40,13 @@
     * [3 追寻挚友：Emerald Coast](adventure-ju-qing-liu-cheng/big-pian/3-zhui-xun-zhi-you-ff1a-emerald-coast.md)
     * [4 追寻挚友：Hot Shelter](adventure-ju-qing-liu-cheng/big-pian/4-zhui-xun-zhi-you-ff1a-hot-shelter.md)
   * [E-102 γ 篇](adventure-ju-qing-liu-cheng/e-102-pian.md)
+    * [1 启动 & 机能测试](adventure-ju-qing-liu-cheng/e-102-pian/1-qi-dong-and-ji-neng-ce-shi.md)
+    * 2 任务：捕获 Froggy
+    * 3 保护 Egg Carrier？
+    * [4 解救 E-103 δ](adventure-ju-qing-liu-cheng/e-102-pian/4-jie-jiu-e-103.md)
+    * [5 解救 E-104 ε](adventure-ju-qing-liu-cheng/e-102-pian/5-jie-jiu-e-104.md)
+    * [6 解救 E-105 ζ](adventure-ju-qing-liu-cheng/e-102-pian/6-jie-jiu-e-105.md)
+    * [7 解救 E-101 β](adventure-ju-qing-liu-cheng/e-102-pian/7-jie-jiu-e-101.md)
   * [Super Sonic 篇](adventure-ju-qing-liu-cheng/super-sonic-pian.md)
 * [Trial - 挑战模式](trial-tiao-zhan-mo-shi.md)
   * [Sonic](trial-tiao-zhan-mo-shi/sonic.md)
