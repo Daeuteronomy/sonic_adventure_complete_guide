@@ -1,4 +1,1 @@
-# Hedgehog Hammer 篇
-
-
-
+# Hedgehog Hammer
