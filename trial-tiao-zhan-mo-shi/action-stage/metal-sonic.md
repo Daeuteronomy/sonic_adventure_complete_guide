@@ -1,6 +1,4 @@
-# Action Stage
-
-## Metal Sonic
+# Metal Sonic
 
 **\*请注意：本内容只有 Sonic Adventure DX 拥有，故本篇章仅适用于 Sonic Adventure DX 玩家参考。**
 
@@ -13,3 +11,4 @@ DX版的索尼克大冒险在获得了130枚徽章之后，将在挑战模式中
 ---
 
 所有关卡的要点全部与 [Sonic](/trial-tiao-zhan-mo-shi/action-stage/sonic.md) 的 Action Stage 一致，请点击链接参考。
+

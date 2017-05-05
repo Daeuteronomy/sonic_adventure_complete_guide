@@ -55,7 +55,7 @@
     * [Tails](trial-tiao-zhan-mo-shi/action-stage/tails.md)
     * [Knuckles](trial-tiao-zhan-mo-shi/action-stage/knuckles.md)
     * [Amy](trial-tiao-zhan-mo-shi/action-stage/amy.md)
-    * [Big](trial-tiao-zhan-mo-shi/action-stage/big-pian.md)
+    * [Big](/trial-tiao-zhan-mo-shi/action-stage/big.md)
     * [E-102 γ](trial-tiao-zhan-mo-shi/action-stage/e-102.md)
     * [Metal Sonic](trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
   * [Sub Game - 特殊关卡](trial-tiao-zhan-mo-shi/sub-game.md)
@@ -75,4 +75,6 @@
 * [Chao - Chao养成](chao-chaoyang-cheng.md)
   * [Chao Adventure - Chao大冒险](chao-adventure-chaoda-mao-xian.md)
 * [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
+
+
 

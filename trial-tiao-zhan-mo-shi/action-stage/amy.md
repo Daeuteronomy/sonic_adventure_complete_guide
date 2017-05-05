@@ -1,23 +1,24 @@
-# Action Stage
-
-## Amy
+# Amy
 
 ---
 
-### Twinkle Park
+## Twinkle Park
 
 * C级目标：避开 Zero 并抓取终点的气球；
 * B级目标：在带有至少50枚金环的状态下避开 Zero 并抓取终点的气球；
 * A级目标：在两分内避开 Zero 并抓取终点的气球。
 
-### Hot Shelter
+## Hot Shelter
 
 * C级目标：避开 Zero 并抓取终点的气球；
 * B级目标：在带有至少50枚金环的状态下避开 Zero 并抓取终点的气球；
 * A级目标：在六分三十秒内避开 Zero 并抓取终点的气球。
 
-### Final Egg
+## Final Egg
 
 * C级目标：避开Zero并抓取终点的气球；
 * B级目标：在带有至少50枚金环的状态下避开 Zero 并抓取终点的气球；
 * A级目标：在两分三十秒内避开 Zero 并抓取终点的气球。
+
+
+
