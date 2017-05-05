@@ -4,19 +4,31 @@ Action Stage是本作中最重要的关卡组成部分，收录了角色关卡�
 
 ---
 
-## [Sonic](/trial-tiao-zhan-mo-shi/action-stage/sonic.md)
+### Sonic
 
-## [Tails](/trial-tiao-zhan-mo-shi/action-stage/tails.md)
+以到达终点为目标，以高速度奔跑为特色的竞速关卡。
 
-## [Knuckles](/trial-tiao-zhan-mo-shi/action-stage/knuckles.md)
+### Tails
 
-## [Amy](/trial-tiao-zhan-mo-shi/action-stage/amy.md)
+以到达终点为目标，高速度飞行为特点的竞速关卡。关卡地图与Sonic篇有诸多相似之处，但又不尽相同。
 
-## [Big](/trial-tiao-zhan-mo-shi/action-stage/big.md)
+### Knuckles
 
-## [E-102 γ](/trial-tiao-zhan-mo-shi/action-stage/e-102.md)
+以寻找三枚翡翠碎片为目标的寻宝关卡。关卡地图与Sonic篇有诸多相似之处，但又不尽相同。
 
-## [Metal Sonic {#a-metal-sonic}](/trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
+### Amy
+
+以触碰终点的气球为目标的解谜关卡，需要与机器人Zero斗智斗勇。
+
+### Big
+
+以钓到挚友Froggy为目标，以钓鱼为特色的关卡。B级与A级目标的挑战中对Froggy以外的鱼类有额外的重量要求。
+
+### E-102 γ
+
+以倒计时归零前到达终点为目标的射击关卡。射中敌人会增加倒计时，连续击中的敌人数目越多，时间的增加幅度越大。
+
+### Metal Sonic {#a-metal-sonic}
 
 **\*请注意：本内容只有 Sonic Adventure DX 拥有，故本篇章仅适用于 Sonic Adventure DX 玩家参考。**
 
