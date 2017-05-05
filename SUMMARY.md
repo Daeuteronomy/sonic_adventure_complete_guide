@@ -73,7 +73,6 @@
     * [Ending](trial-tiao-zhan-mo-shi/emblem-results/ending.md)
 
 * [Mission - 60个任务](mission-60ge-ren-wu-gong-lve.md)
-* [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
 * [Chao - Chao养成](chao-chaoyang-cheng.md)
   * [Chao Adventure - Chao大冒险](chao-adventure-chaoda-mao-xian.md)
 * [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
