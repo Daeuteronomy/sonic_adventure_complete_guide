@@ -37,6 +37,8 @@
   * [Big 篇](adventure-ju-qing-liu-cheng/big-pian.md)
     * [1 追寻挚友：Twinkle Park](adventure-ju-qing-liu-cheng/big-pian/1-zhui-xun-zhi-you-ff1a-twinkle-park.md)
     * [2 追寻挚友：Ice Cap](adventure-ju-qing-liu-cheng/big-pian/2-zhui-xun-zhi-you-ff1a-ice-cap.md)
+    * [3 追寻挚友：Emerald Coast](adventure-ju-qing-liu-cheng/big-pian/3-zhui-xun-zhi-you-ff1a-emerald-coast.md)
+    * [4 追寻挚友：Hot Shelter](adventure-ju-qing-liu-cheng/big-pian/4-zhui-xun-zhi-you-ff1a-hot-shelter.md)
   * [E-102 γ 篇](adventure-ju-qing-liu-cheng/e-102-pian.md)
   * [Super Sonic 篇](adventure-ju-qing-liu-cheng/super-sonic-pian.md)
 * [Trial - 挑战模式](trial-tiao-zhan-mo-shi.md)
