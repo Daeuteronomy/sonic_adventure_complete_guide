@@ -56,8 +56,8 @@
     * [Knuckles](trial-tiao-zhan-mo-shi/action-stage/knuckles.md)
     * [Amy](trial-tiao-zhan-mo-shi/action-stage/amy.md)
     * [Big](trial-tiao-zhan-mo-shi/action-stage/big-pian.md)
-    * [E-102 γ 篇](trial-tiao-zhan-mo-shi/action-stage/e-102.md)
-    * [Metal Sonic 篇](trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
+    * [E-102 γ](trial-tiao-zhan-mo-shi/action-stage/e-102.md)
+    * [Metal Sonic](trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
   * [Sub Game - 特殊关卡](trial-tiao-zhan-mo-shi/sub-game.md)
     * [Ice Cap](trial-tiao-zhan-mo-shi/sub-game/ice-cap.md)
     * [Sky Chase](trial-tiao-zhan-mo-shi/sub-game/sky-chase.md)
@@ -71,8 +71,8 @@
     * [Mini Game](trial-tiao-zhan-mo-shi/emblem-results/mini-game.md)
     * [Chao Race](trial-tiao-zhan-mo-shi/emblem-results/chao-race.md)
     * [Ending](trial-tiao-zhan-mo-shi/emblem-results/ending.md)
-
 * [Mission - 60个任务](mission-60ge-ren-wu-gong-lve.md)
 * [Chao - Chao养成](chao-chaoyang-cheng.md)
   * [Chao Adventure - Chao大冒险](chao-adventure-chaoda-mao-xian.md)
 * [Mini Games - Game Gear 怀旧游戏](mini-games-shi-jia-game-gear-huai-jiu-you-xi-mo-shi.md)
+
