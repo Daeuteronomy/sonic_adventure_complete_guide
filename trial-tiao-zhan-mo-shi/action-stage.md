@@ -16,7 +16,7 @@ Action Stage是本作中最重要的关卡组成部分，收录了角色关卡�
 
 ## [E-102 γ](/trial-tiao-zhan-mo-shi/action-stage/e-102.md)
 
-## [Metal Sonic](/trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
+## [Metal Sonic {#a-metal-sonic}](/trial-tiao-zhan-mo-shi/action-stage/metal-sonic.md)
 
 **\*请注意：本内容只有 Sonic Adventure DX 拥有，故本篇章仅适用于 Sonic Adventure DX 玩家参考。**
 
